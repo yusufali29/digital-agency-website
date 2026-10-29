@@ -51,7 +51,6 @@ This project demonstrates my web development skills and my ability to create mod
 
 - GitHub: [@yusufali29](https://github.com/yusufali29)
 - Email: yusuf29ali@gmail.com
-
 ---
 
 ⭐ If you like this project, feel free to star the repository!
